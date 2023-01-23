@@ -15,7 +15,7 @@ Just run the Maven command to build the samples
 
 [source,bash]
 ----
-$ ./mvnw clean install
+./mvnw clean install
 ----
 
 include::RUNNING.adoc[]
