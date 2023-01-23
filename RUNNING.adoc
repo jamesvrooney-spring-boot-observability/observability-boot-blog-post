@@ -6,7 +6,7 @@ To run the samples:
 +
 [source,bash]
 ----
-$ docker compose up
+docker compose up
 ----
 +
 * To access Prometheus go to http://localhost:9090/
